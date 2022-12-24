@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400&family=Nunito:wght@200;300;400;600;700&family=Roboto:ital,wght@0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400&family=Nunito:wght@200;300;400;600;700&family=Roboto:ital,wght@0,700;1,400&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+
+    padding: 0;
+    margin: 0;
+    background: url(background.svg) no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Nunito Sans', sans-serif;
+
+}
+
+h1 {
+
+    font-size: 28px;
+}
+
+
+h2 {
+
+    font-size: 28px;
+}
+
+h3 {
+
+    font-size: 26px;
+}
+
+h4 {
+
+     font-size: 24px;
+}
+
+h5 {
+    font-size: 19px;
+}
+
+
+p {
+    font-size: 14px;
+}
+
+p.large {
+     font-size: 16px;
+     font-weight: 550;
+     
+}
+
+ label {
+    display: block;
+
+ }
+
+ textarea {
+    resize: none;
+ }
+
+ button {
+    background: #56c5f8d8;
+    padding: 10px;
+    display: inline;
+    border: none;
+    border-radius: 8px;
+    color: rgba(0, 0, 0, 0.712);
+    width: 26.5%;
+ }
+
+ button:hover {
+    opacity: 0.5;
+    cursor: pointer;
+ }
+
+.encode-textarea {
+    background: #ceebff;
+    border-radius: 8px;
+    border: none;
+    height: 150px;
+    width: 300px;
+    text-indent: 10px;
+    
+}
+
+.encode-textarea:focus {
+    background: #7fc7cab0;
+    outline-width: 0;
+}
+
+
+.traco-hr {
+    width: 50px;
+    border: 3px solid #020202;
+    
+}
+
+.margin-24-bottom {
+
+    margin-bottom: 24px;
+
+}
+
+.margin-24-top {
+
+    margin-top: 24px;
+
+}
+
+.margin-16-bottom {
+
+    margin-bottom: 16px;
+
+}
+
+.margin-16-top {
+    margin-top: 16px;
+}
+
+.margin-8-bottom {
+
+    margin-bottom: 8px;
+
+}
+
+.margin-8-top {
+    margin-top: 8px;
+}
+
+.fundo {
+
+    background: white;
+    border-radius: 16px;
+    width: 950px;
+    height: 529px;
+    margin: 0 auto;
+    margin-top: 3%;
+    box-shadow: 0 4px 50px -24px black;
+
+}
+
+.content {
+    padding: 45px;
+    width: 40%;
+    float: left;
+}
+
+.content-2 {
+
+    padding: 45px;
+    width: 40%;
+    float: right;  
+}
+
+.clear {
+    clear: both;
+}

@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Decode.</title>
+</head>
+
+<body>
+
+    <div class="fundo">
+        <div class="content">
+            <img class="margin-24-bottom" src="logo.jpg" alt="">
+            <h1 class="margin-8-bottom">The best and most modern,</h1>
+            <p class="large">App to encode words.</p>
+            <hr class="traco-hr margin-24-bottom margin-24-top">
+
+            <label class="margin-8-bottom">Enter your text in lower case to encode:</label>
+            <textarea class="encode-textarea" type="text" id="input-texto"></textarea>
+            <button onClick="criptografar()" type="submit" class="margin-24-top" value="escreva algo">Encode</button>
+            <button onClick="descriptografar()" type="submit" class="margin-24-top" value="saida texto">Decode</button>
+            
+        </div>
+
+        <div class="content-2">
+            <h1 class="margin-8-bottom">Boost your productivity to extreme with Decode,</h1>
+            <h1 class="margin-8-bottom">get a free trial.</h1>
+            <h5 class="large">Productivity increases!</h5>
+            <hr class="traco-hr margin-24-bottom margin-24-top">
+
+            <label class="margin-8-bottom">Your decoding will come out here:</label>
+            <textarea readonly class="encode-textarea" name="" id="output-texto"></textarea>
+            <button onClick="copiar()" type="submit" class="margin-24-top">Copiar</button>
+            <button onClick="apagar()" type="submit" class="margin-24-top" value="Resetar-form">Limpar</button>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+
+</html>
