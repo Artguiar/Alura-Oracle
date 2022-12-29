@@ -183,4 +183,8 @@ img {
     button {
         width: 36%;
     }
+
+    .encode-textarea {
+        width: 150%;
+    }
 }
