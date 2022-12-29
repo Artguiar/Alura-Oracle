@@ -55,6 +55,7 @@ p.large {
 img {
     width: 180px;
     height: 60px;
+    
 }
 
  label {
@@ -177,5 +178,9 @@ img {
 @media(max-width: 1263px) {
     #H1 {
         display: none;
+    }
+
+    button {
+        width: 36%;
     }
 }
