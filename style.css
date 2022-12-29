@@ -52,6 +52,11 @@ p.large {
      
 }
 
+img {
+    width: 180px;
+    height: 60px;
+}
+
  label {
     display: block;
 
@@ -64,7 +69,7 @@ p.large {
  button {
     background: #56c5f8d8;
     padding: 10px;
-    display: inline;
+    display:inline-block;
     border: none;
     border-radius: 8px;
     color: rgba(0, 0, 0, 0.712);
@@ -137,16 +142,15 @@ p.large {
 
     background: white;
     border-radius: 16px;
-    width: 100%;
+    width: 95%;
     height: 100%;
-    margin-top: 5%;
+    margin-top: 5.5%;
     margin-bottom: 5%;
+    margin-left: 2.5%;
     box-shadow: 0 4px 50px -24px black;
     display: flex;
     flex-wrap: wrap;
-    margin-left: 5px;
-    margin-right: 5px;
-   
+    
 
 }
 
@@ -168,4 +172,10 @@ p.large {
 
 .clear {
     clear: both;
+}
+
+@media(max-width: 1263px) {
+    #H1 {
+        display: none;
+    }
 }
