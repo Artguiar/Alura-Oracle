@@ -1,6 +1,6 @@
 Challenge Oracle-One-Alura -
 
-https://artguiar.github.io/Alura-Oracle/
+https://artguiar.github.io/ArthurAguiar-Alura-Oracle-Challenge/
 
 Repositório do primeiro desafio Alura em parceria com a Oracle.
 
