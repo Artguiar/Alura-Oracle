@@ -1,16 +1,20 @@
-Challenge Oracle-One-Alura -
+# Challenge Oracle-One-Alura -
 
-https://artguiar.github.io/ArthurAguiar-Alura-Oracle-Challenge/
+## Indice do Repósitório - 
+
+* [Explicação do App]
+* [Casos de Uso]
+* [Requisitos]
+* [Acesse a página aqui - ](https://artguiar.github.io/ArthurAguiar-Alura-Oracle-Challenge/)
 
 Repositório do primeiro desafio Alura em parceria com a Oracle.
 
 Fiz todo o estudo de UX/UI, paleta de cores, dimensoes de tela e acessibilidade. 
-Optei por criar um layout totalmente autoral.
+Optei por criar um layout totalmente autoral. O projeto foi feito em HTML, CSS e JavaScript. Uma dos requisitos era a não utilização de frameworks, tudo deveria ser nativo das linguagens.
 
-Descrição
-Boas vindas ao primeiro desafio!
+# Casos de Uso:
 
-Durante estas duas semanas, vamos trabalhar em uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
+Vamos trabalhar em uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
 As "chaves" de criptografia que utilizaremos são:
 A letra "e" é convertida para "enter"
@@ -19,7 +23,7 @@ A letra "a" é convertida para "ai"
 A letra "o" é convertida para "ober"
 A letra "u" é convertida para "ufat"
 
-Requisitos:
+# Requisitos:
 - Deve funcionar apenas com letras minúsculas
 - Não devem ser utilizados letras com acentos nem caracteres especiais
 - Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
@@ -32,5 +36,20 @@ A página deve ter campos para inserção do texto a ser criptografado ou descri
 O resultado deve ser exibido na tela.
 Extras:
 - Um botão que copie o texto criptografado/descriptografado para a área de transferência - ou seja, que tenha a mesma funcionalidade do ctrl+C ou da opção "copiar" do menu dos aplicativos.
+
+
+
+
+---
+
+## Indice do Repósitório - 
+* [Min-MaxSum](https://github.com/Artguiar/HackerRank---Practice-Problems-Java-Script/tree/main/Mini-MaxSum)
+* [Time-Conversion](https://github.com/Artguiar/HackerRank---Practice-Problems-Java-Script/tree/main/TimeConversion)
+* [Grading-Students](https://github.com/Artguiar/HackerRank---Practice-Problems-Java-Script/tree/main/Grading-Students)
+* [Apple-And-Orange](https://github.com/Artguiar/HackerRank-Practice-Problem-Solving-Java-Script/tree/main/AppleAndOrange)
+* [Cats-And_Mouse](https://github.com/Artguiar/HackerRank-Practice-Problem-Solving-Java-Script/tree/main/CatsAndMouse)
+* [Digital 7 font](https://www.dafont.com/digital-7.font)
+* [Google Fonts](https://fonts.google.com)
+* [Babel](https://babeljs.io)
 
 
